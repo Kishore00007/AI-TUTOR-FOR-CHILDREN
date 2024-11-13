@@ -205,3 +205,6 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+# Output:
+![WhatsApp Image 2024-11-05 at 6 11 43 PM](https://github.com/user-attachments/assets/0b7bc7e6-6f54-4747-911f-a0ba60d2418a)
+![WhatsApp Image 2024-11-05 at 6 11 44 PM](https://github.com/user-attachments/assets/6e9b70d5-02ba-46b9-bdfc-72cff7ebeb4f)
